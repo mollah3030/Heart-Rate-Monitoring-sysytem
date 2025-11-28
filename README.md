@@ -1,2 +1,2 @@
 # Heart-Rate-Monitoring-sysytem
-Created an UI Using python and flet
+Created an UI project Using python and flet
