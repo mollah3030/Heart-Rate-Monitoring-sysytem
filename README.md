@@ -375,9 +375,9 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+Md Mohiuddon Mollah
+- GitHub: [[@yourusername](https://github.com/yourusername)](https://github.com/mollah3030/Heart-Rate-Monitoring-sysytem)
+- Email: mdmohiuddinmollah30@gmail.com
 
 ---
 
@@ -406,7 +406,12 @@ SOFTWARE.
 
 ## 📸 Screenshots
 
-> **Note:** Add screenshots of your app here!
+<img width="966" height="1109" alt="image" src="https://github.com/user-attachments/assets/b2a8d775-44de-4c2a-b8d3-5ab19e5b7aa7" />
+<img width="961" height="812" alt="image" src="https://github.com/user-attachments/assets/44bde310-44a0-4ef3-abdc-1e0a44e559da" />
+
+<img width="864" height="435" alt="image" src="https://github.com/user-attachments/assets/027a92e3-a8a6-4ef8-a365-0d4537aa2381" />
+ <img width="1247" height="987" alt="image" src="https://github.com/user-attachments/assets/a747869b-c71f-471b-b673-6879d6f0b77c" />
+
 
 ```markdown
 ![Profile Screen](screenshots/profile.png)
